@@ -109,7 +109,8 @@
     
 <h4>责任描述：</h4>
        &ensp; &emsp;负责后台登录代码实现，用户列表查询<br>
-        &ensp; &emsp;负责项目前期工程搭建<br>
+        &ensp; &emsp;负责项目工程开发环境搭建<br>
+        &ensp; &emsp;负责使用SpringMVC解决平台的统一异常处理<br>
         
        
 ## 获奖经历
