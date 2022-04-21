@@ -6,7 +6,7 @@
 
 * 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;年 龄：23  
 * 手 机：13001003658 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; &ensp;邮 箱：1346685569@qq.com    
-* 专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;  &emsp; &emsp;岗 位：java初级开发程序员
+* 专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;        &ensp;岗 位：java初级开发程序员
 
 ## 教育经历
    
