@@ -23,7 +23,7 @@
 <h3>学成在线系统</h3>
 <h4> 项目前景</h4>
 &emsp;1.在线教育近五年来稳步增长<br>
-      &ensp; &emsp;在线教育市场规模未来将持续增长， 一二线城市在线教育市场渐趋成熟， 而三四线城市市场仍处千初步发展阶段。<br>
+      &ensp; &emsp;在线教育市场规模未来将持续增长， 一二线城市在线教育市场渐趋成熟， 而三四线城市市场仍处于初步发展阶段。<br>
     &emsp;2.政治环境促进在线教育健康发展<br>
       &ensp; &emsp;在线教育越发得到重视，相关政策规定的出现，将进一步促进在线教育健康发展。<br>
         &emsp;3.在线教育用户规模再创新高<br>
@@ -65,9 +65,40 @@
       &ensp; &emsp;视图层：页面的构建：微信等使用H5技术、PC使用前端技术Vue/React、移动端使用App(安卓/ios)。<br>
        &ensp; &emsp;微服务接入控制层：GateWay、Eureka、Ribbon、Sentinel、Feign等。<br>
         &ensp; &emsp;微服务层微服务层：Spring Boot 、Druid、Lombok、MapStruct、Mybatis plus、sharding-jdbc、swagger、XXL-job、Freemark。<br>
-         &ensp; &emsp;数据访问层：使用Spring Data 、Mybatis 等。<br>
-      
+         &ensp; &emsp;数据访问层：使用Spring Data 、Mybatis 等。
+        &emsp;<h4>项目主体业务流程</h4>
+ &emsp;1.教学机构业务主体流程<br>
+      &ensp; &emsp;①：教学机构在学成进行登录
 
+ &ensp; &emsp;②：在教学管理中心可以管理课程信息
+
+ &ensp; &emsp;③：课程管理是会使用阿里云和七牛云服务
+
+ &ensp; &emsp;④：教学机构在课程没有问题的情况下将课程进行提交审核   
+
+ &ensp; &emsp;⑤：课程审核通过后，教学机构可以发布课程。 <br>
+    &emsp;2.平台机构业务主体流程<br>
+      &ensp; &emsp;①：平台机构在学成进行登录
+
+&ensp; &emsp;②：在教学管理中心管理教学机构课程内容
+
+&ensp; &emsp;③：课程中需要从外部服务中获得课程内容数据，并进行预览
+
+&ensp; &emsp;④：预览课程内容后，需要对课程进行审核。<br>
+        &emsp;3.学员业务主体流程<br>
+      &ensp; &emsp;①：学员在学成的门户进行登录
+
+ &ensp; &emsp;②：在门户搜索需要学习的课程内容
+
+ &ensp; &emsp;③：找到对应课程后，需要对课程进行        下单购买
+
+ &ensp; &emsp;④：在学习中心查看自己课程，并进行学习        视频播放时会使用到第三方的服务。<br>
+ <h4>使用人群：</h4>
+   &ensp; &emsp;1.第三方教学机构<br>
+       &ensp; &emsp;2.学成在线管理平台人员<br>
+        &ensp; &emsp;3.学员<br>
+        
+       
 ## 获奖经历
 * 2018-2019年度 优秀标兵
 * 2019-2020年度 优秀班干部
