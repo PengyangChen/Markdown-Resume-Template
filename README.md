@@ -61,6 +61,11 @@
          &ensp; &emsp;验证码服务：生成系统中的验证码并通过短息服务发送验证码、校验验证码等。<br>
         &ensp; &emsp;统一认证服务：对系统中的所有用户资源进行管理，并提供服务中用户资源的认证功能。<br>
          &ensp; &emsp;视频点直播：在课程学习时需要通过此服务来对视频资源进行播放。<br>
+          <h4> 技术栈功能</h4> 
+      &ensp; &emsp;视图层：页面的构建：微信等使用H5技术、PC使用前端技术Vue/React、移动端使用App(安卓/ios)。<br>
+       &ensp; &emsp;微服务接入控制层：GateWay、Eureka、Ribbon、Sentinel、Feign等。<br>
+        &ensp; &emsp;微服务层微服务层：Spring Boot 、Druid、Lombok、MapStruct、Mybatis plus、sharding-jdbc、swagger、XXL-job、Freemark。<br>
+         &ensp; &emsp;数据访问层：使用Spring Data 、Mybatis 等。<br>
       
 
 ## 获奖经历
