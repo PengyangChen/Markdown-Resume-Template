@@ -10,7 +10,7 @@
 
 ## 教育经历
    
-* 郑州信息科技职业学院&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2021.6&emsp;&emsp;&emsp;&emsp; 计算机应用技术-专科生         
+* 郑州信息科技职业学院&emsp;&emsp;&emsp;&emsp;&emsp;2018.9~2021.6&emsp;&emsp;&emsp;&emsp; 计算机应用技术（网站开发）         
 
 ## 专业技能
 
