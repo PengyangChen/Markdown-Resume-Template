@@ -104,6 +104,8 @@
       &ensp;（对于视频点播/直播会使用阿里元服务）&ensp;（对于文件会使用七牛云进行存储）。<br>
    
    <h4>技术描述</h4>
+    &ensp; &emsp;SpringMVC+SpringBoot+Mybatis+MybatisPlus+Dubbo<br>
+    
         
        
 ## 获奖经历
