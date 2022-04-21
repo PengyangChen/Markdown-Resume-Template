@@ -15,9 +15,9 @@
 ## 专业技能
 
 * 熟悉使用 Java 基础知识,具备良好的面向对象编程思想和良好的代码编写习惯;
-* 熟悉使用 MySql 关系型数据库,以及 SQL 语句,了解 MySql性能优化 
-* 了解 JavaWeb 技术体系框架,熟练掌握 Servlet 技术;
-* 了解 JavaScript、Ajax、vue 等前端技术的使用
+* 熟悉使用 MySql 关系型数据库,以及 SQL 语句,了解 MySql性能优化 ；
+* 了解 JavaWeb 技术体系框架、 JavaScript前端技术的使用；
+
 
 ## 项目经历
 暂无
